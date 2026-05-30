@@ -26,7 +26,7 @@ I was inspired: https://github.com/jkesanen/notepadplusplus-zenburn + https://gi
 
 #### "Consolas" font from windows can be downloaded using the commands (ArchLinux):
 ```
-yay -S ttf-vista-fonts
+yay -S ttf-vista-fonts ttf-ms-fonts
 ```
 
 #### For the command above, you need to install yay (ArchLinux):
