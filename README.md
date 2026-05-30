@@ -1,5 +1,7 @@
 CudaText Zenburn theme (dark/grey nodepad++ DarkModeDefault)
 
+#### To install, you need to download the files in a zip and drag it to the CudaText window and select the Zenburn theme in the settings.
+
 I was inspired: https://github.com/jkesanen/notepadplusplus-zenburn + https://github.com/jnurmine/Zenburn
 
 #### To fully copy the Notepad++ style, I recommend using the configuration config below (the "pylib__linux" version will probably be different for you):
