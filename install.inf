@@ -1,0 +1,5 @@
+[info]
+title=Zenburn (DarkModeDefault NP++ port)
+type=cudatext-data
+subdir=themes
+desc=UI+syntax theme based on Notepad++ DarkModeDefault/Zenburn palette
