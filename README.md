@@ -1,6 +1,7 @@
 CudaText Zenburn theme (dark/grey nodepad++ DarkModeDefault)
 
-#### To install, you need to download the files in a zip and drag it to the CudaText window and select the Zenburn theme in the settings.
+#### NEW: The Zenburn theme was immediately officially added to CudaText and is available in the add-ons store.
+#### OLD: To install, you need to download the files in a zip and drag it to the CudaText window and select the Zenburn theme in the settings.
 
 I was inspired: https://github.com/jkesanen/notepadplusplus-zenburn + https://github.com/jnurmine/Zenburn
 
