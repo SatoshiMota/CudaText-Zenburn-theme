@@ -31,17 +31,10 @@ yay -S ttf-vista-fonts ttf-ms-fonts
 
 #### For the command above, you need to install yay (ArchLinux):
 ```
-sudo pacman -S --needed git base-devel
+sudo pacman -Syu --needed git base-devel
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
-```
-
-#### During the execution of any of the two sets of commands above, there may be errors, you must first update the mirrors ArchLinux (pacman):
-```
-sudo pacman -S reflector
-sudo reflector --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
-sudo pacman -Syy
 ```
 
 ### Screenshots:
